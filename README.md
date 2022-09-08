@@ -2,11 +2,13 @@
 
 ## Overview
 
-The purpose of this analysis is to use python and pandas to do two things.  First, invalidate the scores for the 9th grade at Thomas High School by replacing them with "Nan".  Then perform an in-depth analysis on the rest of the data that remains.
+The purpose of this analysis is to use python and pandas to do two things.  First, exclude the scores for the 9th grade at Thomas High School by replacing them with "Nan".  Then perform an in-depth analysis on the rest of the data that remains.
 
 ## Results
 
 ### D1: Removing THS 9th Grade Reading & Math
+
+In deliverable one, I used the pandas loc method to selectively edit the 9th grade Thomas High School reading and math school. All of these scores were changed to 'Nan' values, which effectively excludes them from all further calculations in the analysis.
 
 ### D2:  
 
