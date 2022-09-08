@@ -6,10 +6,16 @@ The purpose of this analysis is to use python and pandas to do two things.  Firs
 
 ## Results
 
+### D1: Removing THS 9th Grade Reading & Math
+
+### D2:  
 
 
 ## Summary
 
+After excluding all the the test scores from Thomas High School(THS) 9th grade, several metrics for THS were negatively affected. In particular their ranking for overall percentage of passing students dropped from 2nd best to 8th worst.  They also dragged down the ratings for charter schools in their size range.
+
+---------------------------------------
 Project for Python and Pandas Practice.
 Deliverable 3 Instructions
 For this part of the Challenge, write a report that summarizes your updated analysis and compares it with the results from the module.
